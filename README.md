@@ -1,6 +1,6 @@
 # Froogle
 ## Froogle is an interactive search engine that compares prices from: Ebay and Walmart 
-        ** Think about what you want to compare, search, and in seconds you will have a price comparision **
+        **Think about what you want to compare, search, and in seconds you will have a price comparision.**
         * Froogle will eliminate the time and hassle of searching between websites.
         * The website will also make your decision easier on wheater you want a used or new product. (It is a huge price gap or not?)
 ## Froogle's future
